@@ -1,0 +1,5 @@
+Tools:
+
+What are Json Line files? https://jsonlines.org/
+Json Formatter: https://jsonformatter.org/
+Json to JsonL: https://www.convertjson.com/json-to-jsonlines.htm
